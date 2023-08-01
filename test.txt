@@ -1,1 +1,3 @@
 a simple text file to test SSH and GPG keys
+
+SSH key works and commits are verified
